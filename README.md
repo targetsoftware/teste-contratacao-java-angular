@@ -33,7 +33,7 @@ Realize um `fork` e suba o código desenvolvido dentro deste repositório.
   - Aplicação de conceitos de clean code, design patterns, SOLID;
   - Separação de camadas de apresentação, serviços, negócios e repositório;
 
-- Diferenciais
+### Diferenciais
   - Ambiente Docker;
   - Testes unitários;
   - Documentação
